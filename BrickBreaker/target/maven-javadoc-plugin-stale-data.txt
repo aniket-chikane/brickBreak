@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'D:/java/projects/BrickBreaker/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/java/projects/BrickBreaker/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BrickBreaker 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BrickBreaker 1.0-SNAPSHOT API'
+Game
+D:\java\projects\BrickBreaker\src\main\java = 1710382955853
+D:\java\projects\BrickBreaker\target\site\apidocs\allclasses-index.html = 1710469443750
+D:\java\projects\BrickBreaker\target\site\apidocs\allpackages-index.html = 1710469443772
+D:\java\projects\BrickBreaker\target\site\apidocs\copy.svg = 1710469443856
+D:\java\projects\BrickBreaker\target\site\apidocs\element-list = 1710469443513
+D:\java\projects\BrickBreaker\target\site\apidocs\help-doc.html = 1710469443841
+D:\java\projects\BrickBreaker\target\site\apidocs\index-all.html = 1710469443816
+D:\java\projects\BrickBreaker\target\site\apidocs\index.html = 1710469443828
+D:\java\projects\BrickBreaker\target\site\apidocs\link.svg = 1710469443868
+D:\java\projects\BrickBreaker\target\site\apidocs\member-search-index.js = 1710469443789
+D:\java\projects\BrickBreaker\target\site\apidocs\module-search-index.js = 1710469443775
+D:\java\projects\BrickBreaker\target\site\apidocs\overview-tree.html = 1710469443711
+D:\java\projects\BrickBreaker\target\site\apidocs\package-search-index.js = 1710469443783
+D:\java\projects\BrickBreaker\target\site\apidocs\script.js = 1710469443853
+D:\java\projects\BrickBreaker\target\site\apidocs\search-page.js = 1710469443878
+D:\java\projects\BrickBreaker\target\site\apidocs\search.html = 1710469443823
+D:\java\projects\BrickBreaker\target\site\apidocs\search.js = 1710469443875
+D:\java\projects\BrickBreaker\target\site\apidocs\serialized-form.html = 1710469443606
+D:\java\projects\BrickBreaker\target\site\apidocs\stylesheet.css = 1710469443849
+D:\java\projects\BrickBreaker\target\site\apidocs\tag-search-index.js = 1710469443791
+D:\java\projects\BrickBreaker\target\site\apidocs\type-search-index.js = 1710469443786
